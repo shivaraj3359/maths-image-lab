@@ -17,3 +17,23 @@ Ensure you have Python installed along with the required dependencies.
 Install the required packages using pip:
 ```bash
 pip install opencv-python numpy Pillow
+``` 
+
+## Project Interface & Output
+Here is the Maths Image Lab interface, demonstrating the live side-by-side preview. In this example, the color image is converted to Grayscale using intensity values.
+
+![Maths Image Lab GUI](gui_preview.png)
+
+## Project Presentation
+For a detailed explanation of the math behind these convolution and inner product filters, please view our [Project Presentation](Maths_Image_Lab_Presentation.pdf).
+
+
+## Team Members
+This mini-project was developed by:
+* **Shivaraj** 
+* **Sharanu**
+* **Shaik Mohammed Hyder Ali**
+* **Samith.d**
+* **Shravan Manjappa Linganagoudra**
+
+
