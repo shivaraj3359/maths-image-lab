@@ -28,12 +28,11 @@ Here is the Maths Image Lab interface, demonstrating the live side-by-side previ
 For a detailed explanation of the math behind these convolution and inner product filters, please view our [Project Presentation](Maths_Image_Lab_Presentation.pdf).
 
 
-## Team Members
+## Team Members: [TensorTech]
 This mini-project was developed by:
-* **Shivaraj** 
+* **Shivaraj**
 * **Sharanu**
 * **Shaik Mohammed Hyder Ali**
 * **Samith.d**
 * **Shravan Manjappa Linganagoudra**
-
 
